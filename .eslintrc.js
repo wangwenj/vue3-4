@@ -18,6 +18,7 @@ module.exports = {
     semi: "off",
     quotes: "off",
     "space-before-function-paren": "off",
-    "@typescript-eslint/member-delimiter-style": "off"
+    "@typescript-eslint/member-delimiter-style": "off",
+    "@typescript-eslint/ban-ts-ignore": "off"
   }
 };
