@@ -23,7 +23,7 @@
             <a href="#" class="dropdown-item">编辑资料</a>
           </dropdown-item>
           <dropdown-item>
-            <a href="#" class="dropdown-item">退出登陆</a>
+            <router-link to="/login" class="dropdown-item">退出登陆</router-link>
           </dropdown-item>
         </dropdown>
       </li>
